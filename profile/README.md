@@ -11,6 +11,7 @@ Alex Tech Incorporated is a Roblox Development Group focusing on the Sci-Fi genr
 ## Social Links
 [![Website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_64h.png)](https://alextechinc.xyz/)
 [![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-plural_64h.png)](https://www.youtube.com/@AlexTechIncorporated)
+[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.gg/8fWuYzMnrR)
   
 ## Lore
 Alex Technologies Incorporated is a German research and development company specializing in reactor technologies and innovation. Although headquartered near the Dutch border, the company operates facilities worldwide, with major locations in Germany, the United States and Switzerland.
